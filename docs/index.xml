@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>顾宇的简历</title>
-    <link>http://www.guyu.me/resume/</link>
+    <link>https://www.guyu.me/resume/</link>
     <description>Recent content on 顾宇的简历</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="http://www.guyu.me/resume/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.guyu.me/resume/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
