@@ -3,15 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.guyu.me/categories/</loc>
+    <loc>http://www.guyu.me/resume/categories/</loc>
   </url>
   
   <url>
-    <loc>http://www.guyu.me/tags/</loc>
+    <loc>http://www.guyu.me/resume/tags/</loc>
   </url>
   
   <url>
-    <loc>http://www.guyu.me/</loc>
+    <loc>http://www.guyu.me/resume/</loc>
   </url>
   
 </urlset>
