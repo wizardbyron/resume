@@ -107,16 +107,22 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.awards]
         enable = true
+        [[params.awards.list]]
+        name = "年度案例"
+        body = "TOP100 Case Study"
+        date = "2019.11.16"
+
 
         [[params.awards.list]]
-        name = "Award Lorem Ipsum"
-        body = "Microsoft lorem ipsum"
-        date = "2019"
-        [[params.awards.list]]
-        name = "Award Donec Sodales"
-        body = "Oracle Aenean"
-        date = "2017"
+        name = "特邀讲师"
+        body = "深圳敏捷之旅"
+        date = "2019.09.22"
 
+
+        [[params.awards.list]]
+        name = "金牌讲师"
+        body = "DevOps 国际峰会"
+        date = "2019.07.05"
 
 
 
