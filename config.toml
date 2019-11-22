@@ -296,18 +296,18 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.social.list]]
         style = "fab"
         icon = "fa-github-square"
-        url = "//github.com/username"
-        title = "username"
+        url = "//github.com/wizardbyron"
+        title = "wizradbyron"
         [[params.social.list]]
         style = "fab"
         icon = "fa-linkedin"
-        url = "//linkedin.com/in/username"
-        title = "username"
+        url = "//linkedin.com/in/wizradbyron"
+        title = "wizradbyron"
         [[params.social.list]]
         style = "fab"
         icon = "fa-twitter-square"
-        url = "//twitter.com/username"
-        title = "@username"
+        url = "//twitter.com/wizardbyron"
+        title = "@wizradbyron"
 
 
 
