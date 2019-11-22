@@ -12,8 +12,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
 [params]
-    author = "CowboySmall"
-    description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
+    author = "顾宇"
+    description = "埃森哲（中国）有限公司通信、媒体和高科技事业部咨询经理"
 
 
     primaryColor = "#54B689"
@@ -24,8 +24,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.profile]
         enable = true
-        name = "Simon Doe"
-        tagline = "Senior Software Engineer"
+        name = "顾宇"
+        tagline = "埃森哲（中国）有限公司通信、媒体和高科技事业部咨询经理"
         avatar = "avatar.png"
 
 
