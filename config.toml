@@ -126,11 +126,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.languages.list]]
-        name = "English"
-        level = "Native"
+        name = "中文"
+        level = "母语"
         [[params.languages.list]]
-        name = "Spanish"
-        level = "Professional"
+        name = "英语"
+        level = "商务会话"
 
 
 
