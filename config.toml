@@ -56,13 +56,15 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list]]
         title = "Technical"
         [[params.skills.list.items]]
-        details = "JavaScript/Angular/React/Vue"
+        details = "JavaScript"
         [[params.skills.list.items]]
-        details = "Python/Ruby/PHP"
+        details = "Python/Ruby/Go"
         [[params.skills.list.items]]
-        details = "Node.js/ASP.NET"
+        details = "Node.js/Java"
         [[params.skills.list.items]]
-        details = "PostgreSQL/MySQL"
+        details = "Oracle/MySQL"
+        [[params.skills.list.items]]
+        details = "Git/Jenkins/AWS"
         [[params.skills.list.items]]
         details = "Object-oriented design"
         [[params.skills.list.items]]
@@ -73,13 +75,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list]]
         title = "Professional"
         [[params.skills.list.items]]
-        details = "Effective communication"
+        details = "Consulting"
         [[params.skills.list.items]]
-        details = "Team player"
+        details = "Facilitaion"
         [[params.skills.list.items]]
-        details = "Strong problem solver"
+        details = "Coaching"
         [[params.skills.list.items]]
-        details = "Good time management"
+        details = "Presentation"
 
 
 
