@@ -259,15 +259,67 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.information.list]]
-        title = "Papers"
+        title = "对外分享 - 2019 年"
         [[params.information.list.items]]
-        details = "2018 · Lorem Ipsum"
+        details = "2019.11.16 · 北京 · Top100Summit · 千人规模团队DevOps改进"
         [[params.information.list.items]]
-        details = "2016 · Sed Fringilla"
-
+        details = "2019.10.26 · 北京 · NCTS · DevOps的质量从需求质量开始"
+        [[params.information.list.items]]
+        details = "2019.09.22 · 深圳 · 敏捷之旅 · 2019.0922 · 深圳 · DevOps质量从用户故事开始"
+        [[params.information.list.items]]
+        details = "2019.07.06 · 北京 · DOIS · 微服务产品团队规模化DevOps演进模式"
+        [[params.information.list.items]]
+        details = "2019.06.23 · 深圳 · DevOpsMeetup · 千人规模DevOps组织演进模式"
+        [[params.information.list.items]]
+        details = "2019.05.23 · 香港 · CloudExpo · CloudNative DevOps"
         [[params.information.list]]
-        title = "Interests"
-        details = "Climbing, Snowboarding, Photography, Travelling"
+        title = "对外分享 - 2018 年"
+        [[params.information.list.items]]
+        details = "2018.11.17 · 上海 · CNUTCon · 一次微服务架构决策的案例"
+        [[params.information.list.items]]
+        details = "2018.11.03 · 深圳 · DOIS · 云原生下的 DevOps 新实践"
+        [[params.information.list.items]]
+        details = "2018.11.27 · 深圳 · 腾讯云 · 从DevOps标准评估中我们学到了什么"
+        [[params.information.list.items]]
+        details = "2018.10.14 · 厦门 · DevOpsMeetup · 一个敏捷开发团队的DevOps之路"
+        [[params.information.list.items]]
+        details = "2018.10.13 · 福州 · DevOpsMeetup · 一个敏捷开发团队的DevOps之路"
+        [[params.information.list.items]]
+        details = "2018.09.12 · 台北 · DevOpsDays · 用DevOps故事落地DevOps实践"
+        [[params.information.list.items]]
+        details = "2018.09.02 · 广州 · DevOpsMeetup · 用DevOps故事落地DevOps实践"
+        [[params.information.list.items]]
+        details = "2018.07.21 · 西安 · AgileTour · 团队敏捷文化构建工作坊"
+        [[params.information.list.items]]
+        details = "2018.06.30 · 北京 · DOIS · 成功的微服务应该是什么样"
+        [[params.information.list.items]]
+        details = "2018.06.29 · 北京 · DOIS · 应用设计标准解读"
+        [[params.information.list.items]]
+        details = "2018.06.02 · 深圳 · TechRadarSummit · CloudNativeDevOps"
+        [[params.information.list.items]]
+        details = "2018.04.15 · 深圳 · GOPS2018. · 微服务落地反思以及高效落地"
+        [[params.information.list]]
+        title = "对外分享 - 2017 年"
+        [[params.information.list.items]]
+        details = "2017.10.28 · 北京 · TechNeo · 用基础设施即代码自动化架构迁移"
+        [[params.information.list.items]]
+        details = "2017.10.21 · 厦门 · MDP · 微服务反思工作坊"
+        [[params.information.list.items]]
+        details = "2017.09.17 · 北京 · JAM · 大型团队Jenkins最佳实践分享"
+        [[params.information.list.items]]
+        details = "2017.08.18 · 上海 · DevOpsDays · 无服务器化的微服务持续交付"
+        [[params.information.list.items]]
+        details = "2017.07.29 · 北京 · QingCloudInsight · 当你的持续集成服务器成为安全隐患"
+        [[params.information.list.items]]
+        details = "2017.04.22 · 南京 · NJSD2017. · 打造你的DevOps技术雷达"
+        [[params.information.list.items]]
+        details = "2017.04.21 · 深圳 · GOPS2017. · DevOps可视化在电信企业的应用"
+        [[params.information.list]]
+        title = "对外分享 - 2016 年"
+        [[params.information.list.items]]
+        details = "2016.12.17 · 西安 · DevOpsMeetUp · MicroService In Serverless"
+        [[params.information.list.items]]
+
 
 
 
