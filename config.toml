@@ -36,23 +36,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.contact]
         enable = true
-        location = "New York"
+        location = "Shenzhen, China"
 
-        [[params.contact.list]]
-        style = "fas"
-        icon = "fa-phone-square"
-        url = "tel:#"
-        text = "0123 4567 890"
-        [[params.contact.list]]
-        style = "fas"
-        icon = "fa-envelope-square"
-        url = "mailto:#"
-        text = "simon.doe@yourwebsite.com"
         [[params.contact.list]]
         style = "fas"
         icon = "fa-globe"
         url = "#"
-        text = "www.yourwebsite.com"
+        text = "www.guyu.me"
 
 
 
