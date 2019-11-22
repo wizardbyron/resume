@@ -160,7 +160,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        text = "Summarise your career here. Donec quam felis, ultricies nec, pellentesque eu. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.  Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+        text = "您好，我是顾宇，我目前专注于 DevOps，云计算，微服务和全功能敏捷团队的实践和推广。我在过去 6 年中在国内外不同规模的客户和项目中提供了敏捷，DevOps 和 微服务的培训、咨询和实施服务。并且参与了《研发运营一体化能力成熟度模型》（DevOps标准）和《分布式应用架构技术能力要求 第一部分：微服务平台》（微服务标准）的编写。"
 
 
 
