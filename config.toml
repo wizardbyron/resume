@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "https://www.guyu.me/resume"
+baseURL = "https://www.guyu.me/resume/"
 languageCode = "en"
 title = "顾宇的简历"
 theme = "hugo-devresume-theme"
