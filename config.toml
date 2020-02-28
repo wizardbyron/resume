@@ -14,7 +14,7 @@ publishDir = "docs"
 
 [params]
     author = "顾宇"
-    description = "埃森哲（中国）有限公司通信、媒体和高科技事业部咨询经理"
+    description = ""
 
 
     primaryColor = "#54B689"
@@ -25,8 +25,8 @@ publishDir = "docs"
 
     [params.profile]
         enable = true
-        name = "顾宇"
-        tagline = "埃森哲（中国）有限公司通信、媒体和高科技事业部咨询经理"
+        name = "顾宇的简历"
+        tagline = ""
         avatar = "avatar-square.png"
 
 
@@ -59,17 +59,17 @@ publishDir = "docs"
         [[params.skills.list.items]]
         details = "JavaScript"
         [[params.skills.list.items]]
-        details = "Python/Ruby/Go"
+        details = "Python/Ruby"
         [[params.skills.list.items]]
         details = "Node.js/Java"
         [[params.skills.list.items]]
         details = "Oracle/MySQL"
         [[params.skills.list.items]]
-        details = "Git/Jenkins/AWS"
+        details = "AWS/Azure/TencentCloud/AliCloud/HuaweiCloud"
         [[params.skills.list.items]]
         details = "Object-oriented design"
         [[params.skills.list.items]]
-        details = "Design and implement database structures"
+        details = "Design and implement database "
         [[params.skills.list.items]]
         details = "Lead and deliver complex software systems"
 
@@ -370,12 +370,6 @@ publishDir = "docs"
         icon = "fa-linkedin"
         url = "//linkedin.com/in/wizradbyron"
         title = "wizradbyron"
-        [[params.social.list]]
-        style = "fab"
-        icon = "fa-twitter-square"
-        url = "//twitter.com/wizardbyron"
-        title = "@wizradbyron"
-
 
 
 
