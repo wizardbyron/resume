@@ -8,32 +8,16 @@ publishDir = "docs"
 # googleAnalytics = "UA-XXXXXXX-Y"
 
 
-
-
-
-
 [params]
     author = "顾宇"
     description = ""
-
-
     primaryColor = "#54B689"
     textPrimaryColor = "#292929"
-
-
-
-
     [params.profile]
         enable = true
         name = "顾宇的简历"
         tagline = ""
         avatar = "avatar-square.png"
-
-
-
-
-
-
 
     [params.contact]
         enable = true
@@ -45,51 +29,24 @@ publishDir = "docs"
         url = "#"
         text = "www.guyu.me"
 
-
-
-
-
-
-
     [params.skills]
         enable = true
-
+        
         [[params.skills.list]]
-        title = "Technical"
+        title = "敏捷"
         [[params.skills.list.items]]
-        details = "JavaScript"
-        [[params.skills.list.items]]
-        details = "Python/Ruby"
-        [[params.skills.list.items]]
-        details = "Node.js/Java"
-        [[params.skills.list.items]]
-        details = "Oracle/MySQL"
-        [[params.skills.list.items]]
-        details = "AWS/Azure/TencentCloud/AliCloud/HuaweiCloud"
-        [[params.skills.list.items]]
-        details = "Object-oriented design"
-        [[params.skills.list.items]]
-        details = "Design and implement database "
-        [[params.skills.list.items]]
-        details = "Lead and deliver complex software systems"
-
+        details = "规模化敏捷(SAFe)/Scrum/极限编程/DevOps"
+        
         [[params.skills.list]]
-        title = "Professional"
+        title = "技术"
         [[params.skills.list.items]]
-        details = "Consulting"
+        details = "编程语言: JavaScript/Python/Ruby/Java"
         [[params.skills.list.items]]
-        details = "Facilitaion"
+        details = "数据库: Oracle/MySQL/MongoDB"
         [[params.skills.list.items]]
-        details = "Coaching"
+        details = "公有云: AWS/Azure/TencentCloud/AliCloud/HuaweiCloud"
         [[params.skills.list.items]]
-        details = "Presentation"
-
-
-
-
-
-
-
+        details = "应用架构：微服务架构/领域驱动设计(Domain-Driven-Design,DDD)"
 
     [params.education]
         enable = true
@@ -98,13 +55,6 @@ publishDir = "docs"
         degree = "软件工程 学士"
         university = "新疆大学软件学院"
         dates = "2005 - 2009"
-
-
-
-
-
-
-
 
     [params.awards]
         enable = true
@@ -126,11 +76,6 @@ publishDir = "docs"
         date = "2019.07.05"
 
 
-
-
-
-
-
     [params.languages]
         enable = true
 
@@ -140,13 +85,6 @@ publishDir = "docs"
         [[params.languages.list]]
         name = "英语"
         level = "商务会话"
-
-
-
-
-
-
-
 
     [params.interests]
         enable = false
@@ -160,29 +98,15 @@ publishDir = "docs"
         [[params.interests.list]]
         name = "Travelling"
 
-
-
-
-
-
-
-
     [params.summary]
         enable = true
-        text = "您好，我是顾宇，我目前专注于 DevOps，云计算，微服务和全功能敏捷团队的实践和推广。我在过去 6 年中在国内外不同规模的客户和项目中提供了敏捷，DevOps 和 微服务的培训、咨询和实施服务。并且参与了《研发运营一体化能力成熟度模型》（DevOps标准）和《分布式应用架构技术能力要求 第一部分：微服务平台》（微服务标准）的编写。"
-
-
-
-
-
-
-
+        text = "顾宇，资深软件研发效能专家、DevOps 专家、微服务专家、SAFe® 认证的规模化敏捷顾问（SAFe® 5 Program Consultant）。目前专注于：数字化转型、企业架构和研发效能提升。并在其中应用规模化敏捷、领域驱动设计、微服务架构、DevOps 和云计算技术，积累了丰富的实践和教学经验。"
 
     [params.experience]
         enable = true
 
         [[params.experience.list]]
-        title = "技术咨询经理 - Tech Consulting Manager"
+        title = "技术咨询经理 - Technology Consulting Manager"
         dates = "2018.09 - Present"
         company = "Accenture"
         details = "担任咨询经理，为客户提供软件研发效率和应用架构方面的咨询。"
@@ -220,7 +144,7 @@ publishDir = "docs"
         details = "SaaS: Trello/Sumologic/Splunk/NewRelic"
         
         [[params.experience.list]]
-        title = "Senior Software Developer"
+        title = "高级软件工程师 - Senior Software Developer"
         dates = "2010.08 - 2013.08"
         company = "亚信联创"
         details = "担任项目经理、维护经理、Java开发工程师。作为新疆移动10086 系统产品的维护负责人负责整个系统的维护，新建项目的开发，以及和 BOSS 系统以及其它外围系统的集成，需求沟通以及日常技术维护活动。主要采用 小型机，Oracle 数据库和 Oracle Weblogic Java 技术栈。"
@@ -258,15 +182,6 @@ publishDir = "docs"
         [[params.experience.list.items]]
         details = "Oracle Weblogic 8.1"
 
-
-
-
-
-
-
-
-
-
     [params.projects]
         enable = true
 
@@ -274,14 +189,6 @@ publishDir = "docs"
         title = "Rokit"
         meta = "Open Source"
         tagline = "Rokit (Redirection Optimization Kit) is a CLI tool to help wed admin/developer to test or optimize URL redirection. It's easy to integrate into your CI as smoke test and regression test for redirection testing."
-
-
-
-
-
-
-
-
 
 
     [params.information]
@@ -348,14 +255,6 @@ publishDir = "docs"
         [[params.information.list.items]]
         details = "2016.12.17 · 西安 · DevOpsMeetUp · MicroService In Serverless"
         [[params.information.list.items]]
-
-
-
-
-
-
-
-
 
     [params.social]
         enable = true
