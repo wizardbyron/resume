@@ -100,71 +100,55 @@ publishDir = "docs"
 
     [params.summary]
         enable = true
-        text = "顾宇，资深软件研发效能专家、DevOps 专家、微服务专家、SAFe® 认证的规模化敏捷顾问（SAFe® 5 Program Consultant）。目前专注于：数字化转型、企业架构和研发效能提升。并在其中应用规模化敏捷、领域驱动设计、微服务架构、DevOps 和云计算技术，积累了丰富的实践和教学经验。"
+        text = "顾宇，资深软件研发效能专家、DevOps 专家、微服务专家、SAFe® 认证的规模化敏捷顾问（SAFe® 5 Program Consultant）。并应用规模化敏捷(SAFe)、领域驱动设计、微服务架构、DevOps 和云计算技术帮助客户数字化转型、企业架构演进和研发效能提升。"
 
     [params.experience]
         enable = true
 
         [[params.experience.list]]
-        title = "技术咨询经理 - Technology Consulting Manager"
+        title = "技术咨询经理"
         dates = "2018.09 - Present"
         company = "Accenture"
-        details = "担任咨询经理，为客户提供软件研发效率和应用架构方面的咨询。"
+        details = "担任咨询经理，为客户提供研发效能提升和应用架构方面的咨询。包括敏捷，DevOps，应用架构，微服务架构"
         [[params.experience.list.items]]
-        details = "Agile: User Story/TDD/Scrum/Retrospective"
+        details = "Agile Software Development: SAFe/Scrum/Extrame Programming/DevOps"
         [[params.experience.list.items]]
-        details = "Architect: Domain-Driven-Design/MicroService/V-Model"
+        details = "Architecture: Domain-Driven-Design/MicroService/V Model"
 
         [[params.experience.list]]
-        title = "高级咨询师 - Senior Consultant"
+        title = "高级咨询师"
         dates = "2013.09 - 2018.09"
         company = "ThoughtWorks"
         details = "担任软件工程师，架构师，以及 DevOps 咨询师。作为架构师，为各类客户的技术栈提供架构转型指导和实施，尤其是微服务架构，作为 DevOps 咨询师，帮助客户进行 DevOps 转型，并通过引入 DevOps 评估和技术工具提升客户的 DevOps 和自动化运维能力。作为软件工程师，采用敏捷的软件开发的方式进行编程，擅长 Java / Ruby / NodeJS  技术栈以及敏捷实践，如 XP，TDD 等。对 Python / Scala / R 语言有一些了解。"
         [[params.experience.list.items]]
-        details = "Agile: User Story/TDD/Scrum/Retrospective"
+        details = "Agile Software Development: Scrum/Extrame Programming/DevOps"
         [[params.experience.list.items]]
-        details = "Architect: MicroService"
+        details = "Architecture: MicroService"
         [[params.experience.list.items]]
-        details = "Java: Gradle/Junit/Mockito/Grava/Spring/SpringBoot"
+        details = "Programming Languages: C/C++/Java/JavaScript/Ruby/Python/HTML/CSS"
         [[params.experience.list.items]]
-        details = "JavaScript: jQuery/NodeJS/AngularJS/Yoeman/Bower/Mocha/Chai/Karma"
+        details = "Cloud: AWS/Sumologic/Splunk/NewRelic"
         [[params.experience.list.items]]
-        details = "Ruby: rake/gem/Bundle/Cucumber/Rails/Sinatra/Capybara"
-        [[params.experience.list.items]]
-        details = "Python: Pipenv/requests/pandas"
-        [[params.experience.list.items]]
-        details = "HTML/CSS"
-        [[params.experience.list.items]]
-        details = "MySQL"
-        [[params.experience.list.items]]
-        details = "AWS: Route53/S3/CloudFront/VPC/ELB/EC2/Lambda/CloudFormation/IAM/RDS"
-        [[params.experience.list.items]]
-        details = "DevOps: Git/Jenkins/Vagrant/Docker/Ansible"
-        [[params.experience.list.items]]
-        details = "SaaS: Trello/Sumologic/Splunk/NewRelic"
+        details = "Database: MySQL/PostgreSQL"
         
         [[params.experience.list]]
-        title = "高级软件工程师 - Senior Software Developer"
+        title = "高级软件工程师"
         dates = "2010.08 - 2013.08"
         company = "亚信联创"
         details = "担任项目经理、维护经理、Java开发工程师。作为新疆移动10086 系统产品的维护负责人负责整个系统的维护，新建项目的开发，以及和 BOSS 系统以及其它外围系统的集成，需求沟通以及日常技术维护活动。主要采用 小型机，Oracle 数据库和 Oracle Weblogic Java 技术栈。"
 
         [[params.experience.list.items]]
-        details = "Java"
+        details = "Programming Languages: C/C++/Java/JavaScript/HTML/CSS"
         [[params.experience.list.items]]
-        details = "JavaScript: jQuery"
+        details = "Database: Oracle 10g"
         [[params.experience.list.items]]
-        details = "HTML/CSS"
-        [[params.experience.list.items]]
-        details = "Oracle 10g"
-        [[params.experience.list.items]]
-        details = "Oracle Weblogic 8.1"
+        details = "Middleware: Oracle Weblogic 8.1/Tuxedo"
 
         [[params.experience.list]]
         title = "科员"
         dates = "2009.11 - 2010.08"
         company = "华夏银行乌鲁木齐分行 信息技术部"
-        details = "维护华夏银行乌鲁木齐分行的业务系统。"
+        details = "维护华夏银行乌鲁木齐分行的业务系统和ATM"
 
         [[params.experience.list]]
         title = "Java 开发工程师 - Backend Developer"
@@ -172,15 +156,11 @@ publishDir = "docs"
         company = "神州数码思特奇"
         details = "新疆联通 BSS 系统的割接，以及账务管理系统的维护。"
         [[params.experience.list.items]]
-        details = "Java"
+        details = "Programming Languages: C/C++/Java/JavaScript/HTML/CSS"
         [[params.experience.list.items]]
-        details = "JavaScript: jQuery"
+        details = "Database: Oracle 10g"
         [[params.experience.list.items]]
-        details = "HTML/CSS"
-        [[params.experience.list.items]]
-        details = "Oracle 10g"
-        [[params.experience.list.items]]
-        details = "Oracle Weblogic 8.1"
+        details = "Middleware: Oracle Weblogic 8.1/Tuxedo"
 
     [params.projects]
         enable = true
@@ -195,7 +175,7 @@ publishDir = "docs"
         enable = true
 
         [[params.information.list]]
-        title = "对外分享 - 2019 年"
+        title = "2019 年"
         [[params.information.list.items]]
         details = "2019.11.16 · 北京 · Top100Summit · 千人规模团队DevOps改进"
         [[params.information.list.items]]
@@ -209,7 +189,7 @@ publishDir = "docs"
         [[params.information.list.items]]
         details = "2019.05.23 · 香港 · CloudExpo · CloudNative DevOps"
         [[params.information.list]]
-        title = "对外分享 - 2018 年"
+        title = "2018 年"
         [[params.information.list.items]]
         details = "2018.11.17 · 上海 · CNUTCon · 一次微服务架构决策的案例"
         [[params.information.list.items]]
@@ -235,7 +215,7 @@ publishDir = "docs"
         [[params.information.list.items]]
         details = "2018.04.15 · 深圳 · GOPS2018. · 微服务落地反思以及高效落地"
         [[params.information.list]]
-        title = "对外分享 - 2017 年"
+        title = "2017 年"
         [[params.information.list.items]]
         details = "2017.10.28 · 北京 · TechNeo · 用基础设施即代码自动化架构迁移"
         [[params.information.list.items]]
@@ -251,7 +231,7 @@ publishDir = "docs"
         [[params.information.list.items]]
         details = "2017.04.21 · 深圳 · GOPS2017. · DevOps可视化在电信企业的应用"
         [[params.information.list]]
-        title = "对外分享 - 2016 年"
+        title = "2016 年"
         [[params.information.list.items]]
         details = "2016.12.17 · 西安 · DevOpsMeetUp · MicroService In Serverless"
         [[params.information.list.items]]
